@@ -1,0 +1,11 @@
+{
+  "name": "randomnumbers",
+  "version": "1.0.0",
+  "description": "This is an application that is for making random numbers and truly random numbers.\\",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Peter & Vince",
+  "license": "ISC"
+}
